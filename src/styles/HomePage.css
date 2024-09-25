@@ -1,0 +1,17 @@
+.home-main {
+    display: flex;
+    flex: 1;
+    background-color: white;
+}
+
+.home-header {
+    flex: 1;
+}
+
+.home-section-one {
+    flex: 1;
+}
+
+.home-section-two {
+    flex: 1;
+}
