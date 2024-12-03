@@ -8,7 +8,7 @@ function ContactComponent() {
         <div className="contact-container-email">
           <text className="email-text">email</text>
         </div>
-        <div classNmae="contact-container-github">
+        <div className="contact-container-github">
           <text className="github-text">github</text>
         </div>
       </div>
