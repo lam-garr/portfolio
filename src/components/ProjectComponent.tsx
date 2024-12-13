@@ -3,7 +3,9 @@ import "./styles/ProjectComponent.css";
 
 function ProjectComponent() {
   return (
-    <section></section>
+    <section className="project-main">
+      <div className="project-container"></div>
+    </section>
   );
 }
 
