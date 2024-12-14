@@ -1,0 +1,8 @@
+.resume-main {
+    display: flex;
+    flex-direction: row;
+}
+
+.resume-container {
+    display: flex;
+}
