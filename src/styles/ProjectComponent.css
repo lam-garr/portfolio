@@ -1,0 +1,8 @@
+.project-main {
+    display: flex;
+    flex-direction: column;
+}
+
+.project-container {
+    display: flex;
+}
