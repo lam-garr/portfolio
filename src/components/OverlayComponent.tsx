@@ -3,7 +3,7 @@ import './styles/OverlayComponent.css';
 
 function OverlayComponent() {
   return (
-    <></>
+    <div className={`overlay ${prop.isOpen?'active':''}`}></div>
   );
 }
 
