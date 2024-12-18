@@ -3,7 +3,8 @@ import './styles/ModalComponent.css';
 
 function ModalComponent() {
   return (
-    <></>
+    <aside className="modal-main">
+    </aside>
   );
 }
 
