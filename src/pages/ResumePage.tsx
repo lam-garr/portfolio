@@ -1,8 +1,10 @@
 import React from 'react';
+import '../styles/ResumePage.css';
 
 function ResumePage() {
   return (
-    <main></main>
+    <main className="resume-main">
+    </main>
   );
 }
 
