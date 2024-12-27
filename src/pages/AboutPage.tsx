@@ -1,8 +1,10 @@
 import React from "react";
+import '../styles/AboutPage.css';
 
 function AboutPage() {
   return (
-    <main></main>
+    <main className="about-main">
+    </main>
   );
 }
 
