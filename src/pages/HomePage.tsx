@@ -1,11 +1,11 @@
 import React from 'react';
-import DateComponent from '../components/DateComponenet';
+import HeaderComponent from '../components/HeaderComponent';
 import '../styles/HomePage.css';
 
 function HomePage() {
   return (
     <main className="home-main">
-      <DateComponent/>
+      <HeaderComponent/>
       <header className="home-header">
         <p></p>
       </header>
