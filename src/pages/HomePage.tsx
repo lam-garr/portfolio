@@ -1,6 +1,7 @@
 import React from 'react';
 import HeaderComponent from '../components/HeaderComponent';
 import AboutPage from "./AboutPage";
+import ProjectPage from "./ProjectPage";
 import '../styles/HomePage.css';
 
 function HomePage() {
@@ -12,6 +13,7 @@ function HomePage() {
       </header>
       <section className="home-section-one">
         <AboutPage/>
+        <ProjectPage/>
       </section>
       <section className="home-section-two">
       </section>
